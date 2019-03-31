@@ -51,6 +51,7 @@ Recruitment website
 * https://jobspresso.co/
 * https://nomadlist.com/
 * https://workfrom.co/
+* https://remotewise.io/jobs/
 
 ------------------------
 Public chat rooms
