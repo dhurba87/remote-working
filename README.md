@@ -44,6 +44,13 @@ Project Collaboration
 * [Trello](https://trello.com/en) - enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
 * [Asana](https://asana.com/) - is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business
 
+Communication Tools
+* [Standups.io](https://standups.io) A platform for distributed teams to engage daily using short video messages.
+* [Twist.com](https://twist.com) A chat tool for distributed teams that encourages deep work and with better thread organization than Slack.
+
+Team Building
+* [Bonusly.io](https://bonus.ly/) A tool to help show appreciation within teams, which builds a feeling of common purpose.
+
 ------------------------
 Recruitment website
 ------------------------
