@@ -16,6 +16,7 @@ Articles and discussions
 * [https://medium.com/flylancer/theres-no-such-thing-as-a-virtual-hug-the-importance-of-building-a-meaningful-community-for-9666c1e23d61](https://medium.com/flylancer/theres-no-such-thing-as-a-virtual-hug-the-importance-of-building-a-meaningful-community-for-9666c1e23d61)
 * [Helping Remote Workers Avoid Loneliness and Burnout](https://hbr.org/2018/11/helping-remote-workers-avoid-loneliness-and-burnout)
 * [5 resources for remote workers that will change your life](https://medium.com/devslopes-blog/5-resources-for-remote-workers-that-will-change-your-life-9dcf2a48c9bb)
+* [How Remote Team Work Increases Productivity](https://www.troopmessenger.com/blogs/how-remote-team-work-increases-productivity)
 
 ------------------------
 Audio and video materials
