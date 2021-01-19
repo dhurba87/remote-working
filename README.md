@@ -45,6 +45,8 @@ Project Collaboration
 * [Trello](https://trello.com/en) - enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
 * [Asana](https://asana.com/) - is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business
 * [InVision](https://www.invisionapp.com/) an efficient prototyping collaboration tool which allows designers to create prototypes easier.
+* [Taskade](https://taskade.com/) - the unified workspace for distributed teams, real-time organization and collaboration tool  
+
 
 Communication Tools
 * [Standups.io](https://standups.io) A platform for distributed teams to engage daily using short video messages.
